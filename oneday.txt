@@ -3,3 +3,4 @@ oneday
 - bigCompany 
 - Easy 
 - Bismillah
+- menambahakan itu
