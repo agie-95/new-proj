@@ -1,1 +1,4 @@
 Rencana baru keknya nih 
+-aws 
+-jenkins 
+- DevOps
